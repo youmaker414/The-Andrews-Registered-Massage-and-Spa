@@ -1,0 +1,26 @@
+body {
+background-color:aqua;
+}
+h1 {
+    font-size: 60px;
+    font-family:'Courier New', Courier, monospace;
+    font-style: italic;
+font-weight: bold;
+}
+button{
+    font-size: 30px;
+    border-radius: 30px;
+
+}
+header {
+    background-color: #2a4d69;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+.coupon{
+    border:solid;
+    background-color:red;
+    border-radius: 10px;
+
+}
